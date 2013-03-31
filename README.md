@@ -7,6 +7,10 @@
 
     $ component install nathan7/when-every-key
 
+  or
+
+    $ npm install when-every-key
+
 ## API
 
 ### whenEveryKey :: { (key): Promise a } -> Promise { (key): a }
