@@ -1,0 +1,19 @@
+{
+  "name": "when-every-key",
+  "repo": "nathan7/when-every-key",
+  "description": "promise aggegation for objects",
+  "version": "1.0.0",
+  "keywords": [
+    "promise"
+  ],
+  "dependencies": {
+    "nathan7/when-every-item": "*",
+    "nathan7/objzip": "*",
+    "component/object": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}

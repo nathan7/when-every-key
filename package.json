@@ -1,0 +1,20 @@
+{
+  "name": "when-every-key",
+  "version": "1.0.0",
+  "description": "promise aggegation for objects",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nathan7/when-every-key.git"
+  },
+  "keywords": [
+    "promise"
+  ],
+  "author": "Nathan Zadoks",
+  "license": "MIT",
+  "dependencies": {
+    "when-every-item": "~1.0.0",
+    "objzip": "~1.0.0",
+    "object": "git://github.com/nathan7/object"
+  }
+}
