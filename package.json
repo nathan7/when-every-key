@@ -15,6 +15,7 @@
   "dependencies": {
     "when-every-item": "~1.0.0",
     "objzip": "~1.0.0",
-    "object": "git://github.com/nathan7/object"
+    "object": "git://github.com/nathan7/object",
+    "is-promise": "~1.0.0"
   }
 }

@@ -9,7 +9,8 @@
   "dependencies": {
     "nathan7/when-every-item": "*",
     "nathan7/objzip": "*",
-    "component/object": "*"
+    "component/object": "*",
+    "then/is-promise": "*"
   },
   "development": {},
   "license": "MIT",
