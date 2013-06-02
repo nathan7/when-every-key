@@ -6,8 +6,7 @@ var object = require('object')
 module.exports =
 function whenEveryKey(obj) {
   if (isPromise(obj)) return obj.then(whenEveryKey)
-  return whenEveryItem(object.values(obj))
-    .then(function(values) {
-      return objzip(object.keys(obj), values)
-    })
+  var keys = object.keys(obj)
+    , values = object.values(obj)
+  return whenEveryItem(values).then(function(values) { return objzip(keys, values) })
 }
