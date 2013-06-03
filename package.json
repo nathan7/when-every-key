@@ -13,7 +13,7 @@
   "author": "Nathan Zadoks",
   "license": "MIT",
   "dependencies": {
-    "when-every-item": "~1.0.0",
+    "when-every-item": "~1.1.1",
     "objzip": "~1.0.0",
     "object": "nathan7/object",
     "is-promise": "~1.0.0"
