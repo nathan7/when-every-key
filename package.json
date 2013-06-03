@@ -17,5 +17,12 @@
     "objzip": "~1.0.0",
     "object": "nathan7/object",
     "is-promise": "~1.0.0"
+  },
+  "devDependencies": {
+    "objzip": "~1.0.0",
+    "crazy-promise": "~1.0.0"
+  },
+  "scripts": {
+    "test": "node test.js"
   }
 }
