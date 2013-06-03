@@ -1,6 +1,6 @@
 {
   "name": "when-every-key",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "promise aggegation for objects",
   "main": "index.js",
   "repository": {
